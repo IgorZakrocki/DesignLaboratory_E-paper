@@ -1,2 +1,2 @@
-# DesignLaboratory_-5-E-paper
+# DesignLaboratory_E-paper
 #5 E-paper
