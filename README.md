@@ -1,5 +1,6 @@
 # DesignLaboratory_E-paper
 #5 E-paper
+
 Tydzień#1 10-16.10.2022r:
   - zapoznanie się z dokumentacja E-paper 7,5' i modułu z mikrokontrolerem
   - instalacja systemu linux na raspberry pi 3b+
